@@ -1,0 +1,13 @@
+{
+  "name": "Playstation Decoder",
+  "apiVersion": "1.0.0",
+  "author": "Verox Zik",
+  "version": "0.0.1",
+  "description": "Decode SPI protocol used between Playstation console and controller.",
+  "extensions": {
+    "Playstation Decoder": {
+      "type": "HighLevelAnalyzer",
+      "entryPoint": "HighLevelAnalyzer.Hla"
+    }
+  }
+}
